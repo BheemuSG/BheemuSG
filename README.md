@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BheemuSG
 - 👀 I’m interested in Software testing.
-- 🌱 I’m currently learning SQL, JAVA, Selenium.
+- 🌱 I’m currently learning SQL, JAVA, Python and Selenium.
 - 💞️ I look forward to our collaboration as well.
 - 📫 Bheemu11007@gmail.com
 
